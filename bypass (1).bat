@@ -1,0 +1,1 @@
+dism.exe /Online /Enable-Feature /FeatureName:Microsoft-Hyper-V /All
